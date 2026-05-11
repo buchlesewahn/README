@@ -45,3 +45,4 @@ print("hello world")
 
 my("profile", https://github.com/buchlesewahn)
 
+![프로필 이미지](./KakaoTalk_20260511_142944400.png)
