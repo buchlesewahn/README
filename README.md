@@ -22,9 +22,10 @@ my("profile", https://github.com/buchlesewahn)
 ***
 
 + Python
-+ Java
++ ***Java***
 + C
 + ~Cotlin~
++ ~C#~
 
 ``` Python
 print("Hello World")
